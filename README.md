@@ -13,3 +13,11 @@ Illinois
 1. Champaign County, Illinois is actively considering a 12-month moratorium on data center permits while a county task force develops new zoning and permitting standards for large data centers.
 2. McLean County is clearly moving toward formal data center regulation, and the 2026 amendment shows a more mature and detailed regulatory approach than the 2025 version.
 
+**Ohio(No data for these two counties)
+1. Franklin County doesn't have any clear county wide push to create a new land-use regulations specifically for private data center development.
+2. Pickaway County also doesn't have any clear county wide regulations movement.
+
+
+**Florida(Need to check)
+1.
+2.
